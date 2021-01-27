@@ -7,5 +7,6 @@ Web server:
 4.) Sends the response directly to the client
 Responses can consist of ether the file found or an HTTP 404 "Not Found" message\
 Security is built into the web server that will not allow its clients to access "/grades/students.html" or any file in "/grades/" folder
-This will respond with a HTTP 403 "Forbidden" response
+This will respond with a HTTP 403 "Forbidden" response\
+Examples are shown on Wiki Page
 
